@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * Yoinked from: 
+ * https://www.programiz.com/dsa/linked-list
+ * https://www.learn-c.org/en/Linked_lists
+ */
+
 struct node {
     int data;
     struct node *next;
