@@ -3,5 +3,5 @@
 The title pretty much said it all.
 
 ```console
-$ gcc -o bin/file file.c
+gcc -o bin/file file.c
 ```
